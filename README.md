@@ -1,6 +1,6 @@
 # Vulkan samples asset pack
 
-This repository contains the assets used by my [Vulkan samples](https://github.com/SaschaWillems/Vulkan) and is used there as a submodule.
+This repository contains the assets used by my [Vulkan samples](https://github.com/SaschaWillems/Vulkan) and can be used as an alternative to the download script.
 
 # Licenses and acknowledgments
 
